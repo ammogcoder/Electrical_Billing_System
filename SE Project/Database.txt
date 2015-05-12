@@ -1,0 +1,75 @@
+CUSTOMER
+-----------
+customerID
+firstname
+lastname
+address 1
+address 2
+city
+state
+postalcode
+country
+SSN
+phone
+email
+password
+dateEntered
+
+CUST_BILLING
+------------
+creditcard
+creditcardtypeid
+cardexpmo
+cardexpyr
+billing address
+billing city
+billing state
+billing postalcode
+billing country
+
+BILLING
+---------
+customerID
+billingStartDate
+billingEndDate
+mailDate
+meterReading
+amountToPay
+paid
+paidDate
+
+METER
+--------
+customerID
+meterID
+meterType
+meterReading
+
+
+
+
+if amount is paid for specific month, trigger to alter BALANCE database and check PAID column for that month
+
+CREATE TABLE [dbo].[CUSTOMER]
+(
+	[customerId] INT NOT NULL PRIMARY KEY, 
+    [firstName] NCHAR(20) NOT NULL, 
+    [lastName] NCHAR(20) NOT NULL, 
+    [address] NCHAR(50) NOT NULL, 
+    [city] NCHAR(20) NOT NULL, 
+    [state] NCHAR(10) NOT NULL, 
+    [postalCode] INT NOT NULL, 
+    [country] NCHAR(30) NOT NULL, 
+    [SSN] NCHAR(15) NULL, 
+    [phone] NCHAR(10) NULL, 
+    [email] NCHAR(30) NULL, 
+    [password] NCHAR(20) NOT NULL, 
+    [dateEntered] DATE NOT NULL DEFAULT GETDATE()
+)
+
+
+
+
+
+
+

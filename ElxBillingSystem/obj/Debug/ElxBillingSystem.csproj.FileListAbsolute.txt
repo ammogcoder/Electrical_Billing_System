@@ -1,0 +1,12 @@
+c:\users\oyesh mann singh\documents\visual studio 2013\Projects\ElxBillingSystem\ElxBillingSystem\bin\Debug\ElxBillingSystem.exe.config
+C:\Users\Oyesh Mann Singh\Documents\Visual Studio 2013\Projects\ElxBillingSystem\ElxBillingSystem\bin\Debug\ElxBillingSystem.exe
+C:\Users\Oyesh Mann Singh\Documents\Visual Studio 2013\Projects\ElxBillingSystem\ElxBillingSystem\bin\Debug\ElxBillingSystem.pdb
+C:\Users\Oyesh Mann Singh\Documents\Visual Studio 2013\Projects\ElxBillingSystem\ElxBillingSystem\obj\Debug\ElxBillingSystem.csprojResolveAssemblyReference.cache
+C:\Users\Oyesh Mann Singh\Documents\Visual Studio 2013\Projects\ElxBillingSystem\ElxBillingSystem\obj\Debug\ElxBillingSystem.loginForm.resources
+C:\Users\Oyesh Mann Singh\Documents\Visual Studio 2013\Projects\ElxBillingSystem\ElxBillingSystem\obj\Debug\ElxBillingSystem.Forms.RegisterForm.resources
+C:\Users\Oyesh Mann Singh\Documents\Visual Studio 2013\Projects\ElxBillingSystem\ElxBillingSystem\obj\Debug\ElxBillingSystem.Properties.Resources.resources
+C:\Users\Oyesh Mann Singh\Documents\Visual Studio 2013\Projects\ElxBillingSystem\ElxBillingSystem\obj\Debug\ElxBillingSystem.csproj.GenerateResource.Cache
+C:\Users\Oyesh Mann Singh\Documents\Visual Studio 2013\Projects\ElxBillingSystem\ElxBillingSystem\obj\Debug\ElxBillingSystem.exe
+C:\Users\Oyesh Mann Singh\Documents\Visual Studio 2013\Projects\ElxBillingSystem\ElxBillingSystem\obj\Debug\ElxBillingSystem.pdb
+C:\Users\Oyesh Mann Singh\Documents\Visual Studio 2013\Projects\ElxBillingSystem\ElxBillingSystem\obj\Debug\ElxBillingSystem.Forms.DashForm.resources
+C:\Users\Oyesh Mann Singh\Documents\Visual Studio 2013\Projects\ElxBillingSystem\ElxBillingSystem\obj\Debug\ElxBillingSystem.Forms.AdminBoard.resources
